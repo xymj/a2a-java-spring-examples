@@ -47,7 +47,7 @@ public class FlightA2AConfig {
     AgentSkill skill = new AgentSkill.Builder()
         .id("flight_booking")
         .name("Flight Booking")
-        .description("支持已有机票的预订详情查询、机票日期改签、机票预订取消等操作")
+        .description("支持已有机票的预订详情查询、机票日期改签、机票预订取消操作智能体")
         .tags(List.of("机票详情", "机票改签", "机票预订取消"))
         .examples(List.of("小明机票详情", "机票改签", "机票预订取消"))
         .build();

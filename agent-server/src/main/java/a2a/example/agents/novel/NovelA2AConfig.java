@@ -41,7 +41,7 @@ public class NovelA2AConfig {
     AgentSkill skill = new AgentSkill.Builder()
         .id("wuxiao_novel_recommend")
         .name("wuxiao novel recommend")
-        .description("武侠小说推荐")
+        .description("武侠小说推荐智能体")
         .tags(List.of("武侠小说", "武侠", "武侠小说推荐", "小说推荐"))
         .examples(List.of("武侠小说推荐", "小说推荐"))
         .build();

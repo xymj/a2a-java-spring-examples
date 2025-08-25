@@ -12,6 +12,7 @@
         <module>helloworld-server</module>
         <module>helloworld-client</module>
         <module>agent-server</module>
+        <module>host-agent</module>
     </modules>
 
     <properties>
